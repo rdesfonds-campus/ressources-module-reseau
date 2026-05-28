@@ -31,6 +31,6 @@ Le volume `db_data` assure la persistance des données MySQL entre les redémarr
 
 ## Preuves
 
-![Site PHP fonctionnel](7.1-php.png)
-![phpMyAdmin fonctionnel](7.2-phpmyadmin.png)
-![Redémarrage des containers](7.3-restart.png)
+![Site PHP fonctionnel](img/7.1-php.png)
+![phpMyAdmin fonctionnel](img/7.2-phpmyadmin.png)
+![Redémarrage des containers](img/7.3-restart.png)

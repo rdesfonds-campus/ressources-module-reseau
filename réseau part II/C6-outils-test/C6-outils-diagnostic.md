@@ -23,7 +23,7 @@ ping google.com
 - 4 paquets envoyés, 4 reçus, 0% de perte
 - Latence moyenne : 10ms
 
-![ping google.com et 8.8.8.8](6.1-ping-google.png)
+![ping google.com et 8.8.8.8](img/6.1-ping-google.png)
 
 ---
 
@@ -35,4 +35,4 @@ tracert 8.8.8.8
 
 Liste les routeurs successifs traversés pour atteindre le serveur DNS de Google.
 
-![tracert 8.8.8.8](6.2-tracert-google.png)
+![tracert 8.8.8.8](img/6.2-tracert-google.png)
